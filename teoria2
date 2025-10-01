@@ -1,0 +1,7 @@
+frase = "este dict cuenta cuantas letras tiene cada palabra"
+palabas = frase.split()
+
+diccionario = dict()
+for palabra in palabas:
+    diccionario[palabra] = len(palabra)
+print(diccionario)
