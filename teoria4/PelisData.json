@@ -1,0 +1,32 @@
+
+{
+    "titulo": "Inception",
+    "año de estreno": 2010,
+    "pais de origen": "Estados Unidos",
+    "actores principales": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+}
+{
+    "titulo": "el padrino",
+    "año de estreno": 1972,
+    "pais de origen": "Estados Unidos",
+    "actores principales": ["Marlon Brando", "Al Pacino", "James Caan"],
+}
+{
+    "titulo": "Parasite",
+    "año de estreno": 2019,
+    "pais de origen": "Corea del Sur",
+    "actores principales": ["Song Kang-ho", "Lee Sun-kyun", "Cho Yeo-jeong"],
+}
+
+{
+    "titulo": "The Dark Knight",
+    "año de estreno": 2008,
+    "pais de origen": "Estados Unidos",
+    "actores principales": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+}
+{
+    "titulo": "el secreto de sus ojos",
+    "año de estreno": 2009,
+    "pais de origen": "Argentina",
+    "actores principales": ["Ricardo Darín", "Soledad Villamil", "Pablo Rago", "guillermo francella"],
+}
