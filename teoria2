@@ -5,3 +5,5 @@ diccionario = dict()
 for palabra in palabas:
     diccionario[palabra] = len(palabra)
 print(diccionario)
+
+

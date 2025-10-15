@@ -1,0 +1,124 @@
+{
+    "total de registros": 600,
+    "dias": {
+        "domingo": {
+            "total entrenamientos": 85,
+            "campeones": {
+                "Garen": 12,
+                "Yasuo": 8,
+                "Thresh": 7,
+                "Morgana": 10,
+                "Ahri": 6,
+                "Ezreal": 11,
+                "Lux": 4,
+                "Lee Sin": 5,
+                "Zed": 7,
+                "Vi": 6,
+                "Jinx": 5,
+                "Caitlyn": 4
+            }
+        },
+        "lunes": {
+            "total entrenamientos": 88,
+            "campeones": {
+                "Garen": 4,
+                "Yasuo": 10,
+                "Thresh": 7,
+                "Morgana": 8,
+                "Ahri": 8,
+                "Ezreal": 5,
+                "Lux": 9,
+                "Lee Sin": 10,
+                "Zed": 6,
+                "Vi": 8,
+                "Jinx": 8,
+                "Caitlyn": 5
+            }
+        },
+        "martes": {
+            "total entrenamientos": 88,
+            "campeones": {
+                "Garen": 4,
+                "Yasuo": 9,
+                "Thresh": 9,
+                "Morgana": 10,
+                "Ahri": 4,
+                "Ezreal": 5,
+                "Lux": 6,
+                "Lee Sin": 7,
+                "Zed": 9,
+                "Vi": 8,
+                "Jinx": 9,
+                "Caitlyn": 8
+            }
+        },
+        "miercoles": {
+            "total entrenamientos": 88,
+            "campeones": {
+                "Garen": 6,
+                "Yasuo": 11,
+                "Thresh": 8,
+                "Morgana": 3,
+                "Ahri": 4,
+                "Ezreal": 10,
+                "Lux": 8,
+                "Lee Sin": 5,
+                "Zed": 8,
+                "Vi": 10,
+                "Jinx": 7,
+                "Caitlyn": 8
+            }
+        },
+        "jueves": {
+            "total entrenamientos": 88,
+            "campeones": {
+                "Garen": 9,
+                "Yasuo": 9,
+                "Thresh": 7,
+                "Morgana": 11,
+                "Ahri": 7,
+                "Ezreal": 5,
+                "Lux": 8,
+                "Lee Sin": 10,
+                "Zed": 7,
+                "Vi": 7,
+                "Jinx": 3,
+                "Caitlyn": 5
+            }
+        },
+        "viernes": {
+            "total entrenamientos": 83,
+            "campeones": {
+                "Garen": 5,
+                "Yasuo": 3,
+                "Thresh": 12,
+                "Morgana": 2,
+                "Ahri": 4,
+                "Ezreal": 6,
+                "Lux": 5,
+                "Lee Sin": 10,
+                "Zed": 12,
+                "Vi": 12,
+                "Jinx": 7,
+                "Caitlyn": 5
+            }
+        },
+        "sabado": {
+            "total entrenamientos": 80,
+            "campeones": {
+                "Garen": 8,
+                "Yasuo": 6,
+                "Thresh": 8,
+                "Morgana": 9,
+                "Ahri": 7,
+                "Ezreal": 3,
+                "Lux": 7,
+                "Lee Sin": 7,
+                "Zed": 6,
+                "Vi": 12,
+                "Jinx": 5,
+                "Caitlyn": 2
+            }
+        }
+    }
+}

@@ -1,0 +1,43 @@
+[
+    {
+        "titulo": "El Padrino",
+        " de estreno": 1972,
+        "pais de origen": "Estados Unidos",
+        "actores principales": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan"
+        ]
+    },
+    {
+        "titulo": "Parasite",
+        "a\u00f1o de estreno": 2019,
+        "pais de origen": "Corea del Sur",
+        "actores principales": [
+            "Song Kang-ho",
+            "Lee Sun-kyun",
+            "Cho Yeo-jeong"
+        ]
+    },
+    {
+        "titulo": "The Dark Knight",
+        "a\u00f1o de estreno": 2008,
+        "pais de origen": "Estados Unidos",
+        "actores principales": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart"
+        ]
+    },
+    {
+        "titulo": "el secreto de sus ojos",
+        "a\u00f1o de estreno": 2009,
+        "pais de origen": "Argentina",
+        "actores principales": [
+            "Ricardo Dar\u00edn",
+            "Soledad Villamil",
+            "Pablo Rago",
+            "guillermo francella"
+        ]
+    }
+]

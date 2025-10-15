@@ -75,12 +75,33 @@ contadorClosure = 0
 def crearContador():
     contadorClosure = 0
     def contador():
-        contadorClosure = 0
+        nonlocal contadorClosure
         contadorClosure += 1
         return contadorClosure
     return contador
 miContador = crearContador()
 print(f"miContador ahora es = {miContador()}")
 print(f"miContador ahora es = {miContador()}")
+def copiar_archivo(origen, destino):
+    """
+    Copia el contenido de un archivo de texto a otro archivo.
+
+    Args:
+        origen (str): Ruta del archivo de origen.
+        destino (str): Ruta del archivo de destino.
+    """
+    try:
+        with open(origen, 'r', encoding='utf-8') as archivo_origen:
+            contenido = archivo_origen.read()
+        with open(destino, 'w', encoding='utf-8') as archivo_destino:
+            archivo_destino.write(contenido)
+        print(f"Archivo copiado exitosamente de {origen} a {destino}.")
+    except FileNotFoundError:
+        print(f"Error: El archivo {origen} no existe.")
+    except IOError as e:
+        print(f"Error de entrada/salida: {e}")
+
+# Prueba la función con un archivo pequeño
+copiar_archivo('archivo_origen.txt', 'archivo_destino.txt')
 
 
